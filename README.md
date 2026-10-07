@@ -1,9 +1,9 @@
-# 👋 About Me
+#  About Me
 
 Welcome to my GitHub!  
 <br>
 
-My name is **Isha** 👩‍💻  
+My name is **Isha**  
 <br><br>
 
 I'm a **Software & AI Engineer** with an M.S. in Computer Engineering from NYU, focused on building practical, production-oriented systems across **applied AI/ML, backend engineering, data pipelines, and full-stack development**.
@@ -16,28 +16,28 @@ Previously, I’ve worked on **LLM-powered systems, RAG and retrieval workflows,
 
 ## 🔧 What I Work On
 
-- 🤖 Applied AI / ML systems
-- 🧠 LLMs, RAG & AI evaluation
-- ⚙️ Backend systems & REST APIs
-- 📊 Data engineering & ETL pipelines
-- 🛰️ Computer vision & geospatial AI
-- 🌐 Full-stack product development
-- ☁️ Cloud infrastructure & deployment
-- 🧪 Model evaluation, testing & reliability
+-  Applied AI / ML systems
+-  LLMs, RAG & AI evaluation
+-  Backend systems & REST APIs
+-  Data engineering & ETL pipelines
+-  Computer vision & geospatial AI
+-  Full-stack product development
+-  Cloud infrastructure & deployment
+-  Model evaluation, testing & reliability
 
 <br>
 
-## 🚀 Currently
+##  Currently
 
-- 🛰️ Building automated ML and geospatial-AI workflows as a NASA Research Associate
-- 🧠 Training and evaluating ML models across large-scale satellite datasets
-- 🤖 Exploring LLM evaluation, RAG, agentic AI, and reliable AI systems
-- 🛠️ Building end-to-end products using Python, FastAPI, React, Next.js, and TypeScript
-- 💼 Exploring full-time **Software Engineering, Applied AI/ML, Forward Deployed Engineering, and AI Engineering** opportunities
+-  Building automated ML and geospatial-AI workflows as a NASA Research Associate
+-  Training and evaluating ML models across large-scale satellite datasets
+-  Exploring LLM evaluation, RAG, agentic AI, and reliable AI systems
+-  Building end-to-end products using Python, FastAPI, React, Next.js, and TypeScript
+-  Exploring full-time **Software Engineering, Applied AI/ML, Forward Deployed Engineering, and AI Engineering** opportunities
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -89,7 +89,7 @@ Previously, I’ve worked on **LLM-powered systems, RAG and retrieval workflows,
 
 <br>
 
-## 🌟 Featured Areas
+##  Featured Areas
 
 **Applied AI & LLM Systems**  
 Building and evaluating LLM-powered workflows, retrieval systems, AI agents, and model evaluation pipelines.
@@ -105,7 +105,7 @@ Designing reliable Python, SQL, PySpark, and Airflow pipelines for analytics and
 
 <br>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 I'm always happy to connect with engineers, researchers, founders, and teams working on interesting problems across **software engineering and AI**.
 
